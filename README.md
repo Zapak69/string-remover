@@ -1,1 +1,3 @@
-# string-remover
+# String Remover
+
+> More info on: 
